@@ -42,7 +42,6 @@ body{
 @media screen and (max-width:600px) {
     .container {
         max-width: 400px;
-        background-color: blue;
     }
 
     .tab{
