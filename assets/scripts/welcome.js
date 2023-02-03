@@ -10,7 +10,7 @@ function cli(element) {
         valor.push(input1.value)
         valor.push(input2.value)
         localStorage.setItem("valor", JSON.stringify(valor))
-      element.setAttribute("href", "../game/jogo.html")
+        element.href = "../game/jogo.html"
     }
 }
 
