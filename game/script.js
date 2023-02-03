@@ -8,8 +8,8 @@ let tabuleiro = [
   ["", "", ""],
 ];
 
-let imagePlayerOne = "../image/bolareserva.png"; // endereço das imagens que vão aparecer de cada jagador
-let imagePlayerTwo = "../image/xreserva.png";
+let imagePlayerOne = "./image/bolareserva.png"; // endereço das imagens que vão aparecer de cada jagador
+let imagePlayerTwo = "./image/xreserva.png";
 
 let player = {
   playerTime: "",
