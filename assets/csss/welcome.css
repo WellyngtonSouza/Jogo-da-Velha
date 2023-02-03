@@ -78,6 +78,12 @@ a {
     font-size: 1.3em;
 }
 
+@media screen and (max-width:500px) {
+    input[type="text"]{
+        font-size: 15px;
+    }
+}
+
 @media screen and (max-width:400px) {
     section {
         max-width: 300px;
